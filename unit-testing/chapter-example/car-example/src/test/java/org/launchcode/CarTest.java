@@ -24,7 +24,7 @@ class CarTest {
         assertFalse(test_car.getGasTankLevel() == 0);
     }
     @Test
-    public void testInitialGasTank(){
+    public void testInitialGasTank2(){
 
         assertTrue(test_car.getGasTankLevel() == 10);
     }
